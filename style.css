@@ -3,3 +3,52 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+header {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+nav a {
+  padding: 10px;
+  background-color: grey;
+  display: inline-block;
+  text-align: center;
+}
+
+
+figcaption {
+  font-size: 14px;
+  text-align: center;
+}
+
+
+
+#featured-property  {
+  
+  text-align: center;
+}
+
+#featured-property p {
+width: 800px;
+margin: 0 auto;
+padding: 10px 0;
+
+}
+
+
+#details > div {
+  float: left;
+  width: 25%;
+}
+
+
+
+ div {
+  background-color: #f91d1d; /* Change to your desired background color */
+  text-align: center;
+  width: 25%;
+} 
